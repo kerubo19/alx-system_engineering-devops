@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-ln -s /bin/ls/ __ls__
-=======
-ln -s /bin/ls/__ls__
->>>>>>> refs/remotes/origin/main
+ln -s /bin/ls __ls__

@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 cp -u *.html ..
-=======
-cp ~un *.html ../
->>>>>>> refs/remotes/origin/main

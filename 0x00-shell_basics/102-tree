@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 mkdir -p welcome/to/school
-=======
-mkdir ~p welcome/to/school
->>>>>>> refs/remotes/origin/main
